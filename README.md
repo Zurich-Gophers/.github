@@ -1,3 +1,3 @@
 # Zürich Gophers
 
-Please join the discussion at https://gophers.ch/
+Please join the discussion at https://zh.gophers.ch/
